@@ -15,23 +15,45 @@ Data Description:
 ## 1. Data Cleaning in SQL Server
 
 
+
 ### **Product Table**
 - Introduce a new `category` column based on the `Price` column.
 - Categorize products into **Low**, **Medium**, and **High** price ranges.
+- Query: </br>
+<img src = "https://github.com/user-attachments/assets/e53268b2-aee6-4e3d-8f8d-29174a335331" width="700" height="350" ></br>
 
 ### **Customer Table**
-- Enhance customer details by performing a join operation with the `Geography` table.
+- Enhance customer details by performing a join operation with the `Geography` table. </br>
+Query: Run in Power BI during data load </br>
+![image](https://github.com/user-attachments/assets/c10b9afd-f19a-4a8d-b8f6-122894ed8370)
+
 
 ### **Customer Engagement Table**
 - Derive two new columns from a single source for better data segmentation.
-- Standardize text columns to ensure consistency.
+- Standardize text columns to ensure consistency.</br>
+Query: </br>
+![image](https://github.com/user-attachments/assets/d616069d-eea1-4312-90e0-fb8f7e097499)
+
 
 ### **Customer Journey Table**
-- Remove duplicate records to maintain data integrity.
 - Handle `NULL` values effectively.
+Query: </br>
+![image](https://github.com/user-attachments/assets/cc0c0a22-031f-4a91-b8d5-de6da42ffb8c) </br>
+![image](https://github.com/user-attachments/assets/70f1c9dc-445b-4f3e-88a9-c365a2c58ba4)
+
+
+- Remove duplicate records to maintain data integrity.</br>
+Query: </br>
+![image](https://github.com/user-attachments/assets/3468c9b2-b99f-4ba6-84a5-a7b83313f0f5) </br>
+
+
+
 
 ### **Customer Review Table**
-- Clean up text data using the `TRIM` function to remove unnecessary whitespace.
+- Clean up text data using the `TRIM` function to remove unnecessary whitespace. </br>
+Query: </br>
+![image](https://github.com/user-attachments/assets/3023b1a5-7878-4d86-ad92-b8374b982538)
+
 
 
 </br>

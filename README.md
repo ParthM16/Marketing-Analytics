@@ -1,5 +1,5 @@
 # Marketing-Analytics
-Marketing Analysis of Online Retail Business/campaign 
+Marketing Analysis of Online Retail Business and campaign 
 
 # Objective: 
 ### To propose strategies to the marketing manager to increase the conversion and average rating.</br>

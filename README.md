@@ -36,7 +36,7 @@ Query: </br>
 
 
 ### **Customer Journey Table**
-- Handle `NULL` values effectively.
+- Handle `NULL` values effectively.</br>
 Query: </br>
 ![image](https://github.com/user-attachments/assets/cc0c0a22-031f-4a91-b8d5-de6da42ffb8c) </br>
 ![image](https://github.com/user-attachments/assets/70f1c9dc-445b-4f3e-88a9-c365a2c58ba4)

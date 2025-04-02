@@ -6,7 +6,7 @@ Marketing Analysis of Online Retail Business/campaign
 Data: I've attached the .bak file</br>
 Data Description:
   - Data from 2023 to 2025</br>
-  - It contains customer details, customer reviews, product details, customer engagement data, and customer journey
+  - It contains customer details, customer reviews, product details, customer engagement data, and customer journey tables
 
 
 # What I've Learnt
